@@ -1,0 +1,75 @@
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\obj\Release\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Implementacion\obj\Release\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\JWT.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\System.ValueTuple.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\JWT.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\Newtonsoft.Json.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\bin\Release\System.ValueTuple.xml
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\JWT.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\System.ValueTuple.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\AutoMapper.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\JWT.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\bin\Release\System.ValueTuple.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Implementacion\obj\Release\Servicios.Implementacion.csproj.CoreCompileInputs.cache

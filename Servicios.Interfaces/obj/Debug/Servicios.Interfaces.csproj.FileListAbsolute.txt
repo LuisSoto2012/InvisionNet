@@ -1,0 +1,52 @@
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Users\VS2017\source\repos\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojAssemblyReference.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CopyComplete
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Debug\Servicios.Interfaces.pdb

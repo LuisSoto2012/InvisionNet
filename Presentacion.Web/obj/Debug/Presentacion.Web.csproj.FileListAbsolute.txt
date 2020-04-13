@@ -1,0 +1,682 @@
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\ApplicationInsights.config
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Http.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\WebGrease.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\EntityFramework.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Http.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\EntityFramework.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Users\VS2017\source\repos\Tienda\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\ApplicationInsights.config
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\EntityFramework.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Http.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\WebGrease.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\EntityFramework.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Http.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Owin.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\System.Web.Cors.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\ApplicationInsights.config
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Owin.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Cors.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Http.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\WebGrease.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Http.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\ApplicationInsights.config
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\EntityFramework.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Owin.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Cors.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Http.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\WebGrease.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\EntityFramework.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Http.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\ApplicationInsights.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\EntityFramework.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\JWT.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Owin.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Cors.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\WebGrease.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\AutoMapper.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\EntityFramework.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\JWT.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\AutoMapper.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\AutoMapper.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csprojAssemblyReference.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CopyComplete
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\ApplicationInsights.config
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\EntityFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\JWT.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Owin.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\ReportViewerForMvc.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Cors.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\WebGrease.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\AutoMapper.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\EntityFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\JWT.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\AutoMapper.pdb
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\AutoMapper.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.xml
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Proyecto Web - INO\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\ApplicationInsights.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Presentacion.Web.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\JWT.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\log4net.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Owin.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\ReportViewerForMvc.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Cors.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\WebGrease.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\AutoMapper.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Infraestructura.InyeccionDependencia.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Infraestructura.Transformacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\JWT.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\log4net.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Cors.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.Cors.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Helpers.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Mvc.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Optimization.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Razor.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\AutoMapper.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\AutoMapper.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\System.ValueTuple.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Presentacion.Web\obj\Debug\Presentacion.Web.pdb

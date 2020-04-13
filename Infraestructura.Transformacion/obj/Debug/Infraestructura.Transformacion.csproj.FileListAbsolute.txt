@@ -1,0 +1,62 @@
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csprojAssemblyReference.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CopyComplete
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Infraestructura.Transformacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\AutoMapper.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.Transformacion\obj\Debug\Infraestructura.Transformacion.pdb

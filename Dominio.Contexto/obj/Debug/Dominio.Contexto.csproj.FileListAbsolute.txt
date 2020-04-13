@@ -1,0 +1,195 @@
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.xml
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojResolveAssemblyReference.cache
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojAssemblyReference.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.InicialMigration.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.ModuloCrud.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloCrud.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdRolSubModulo.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.CambiandoTipoDato.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.AreaLaboratorio.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorio3.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorio3_2.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorioCorreccion.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloAreaLaboratorio.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.nombreprueba.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.UltimosLaboratorio.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Reporte.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloReporte.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.columnImagen.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.NombreSSRS.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.DescripcionSSRS.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TamanoDialog.resources
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.GenerateResource.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.InicialMigration.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.ModuloCrud.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloCrud.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdRolSubModulo.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.CambiandoTipoDato.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.AreaLaboratorio.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorio3.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorio3_2.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TablasLaboratorioCorreccion.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloAreaLaboratorio.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.nombreprueba.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.UltimosLaboratorio.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Reporte.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.SubModuloReporte.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.columnImagen.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.NombreSSRS.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.DescripcionSSRS.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TamanoDialog.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Archivos.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdTipoArchivo.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.ComentarioLaboratorio.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoPruebaLipemica.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoPruebaLipemicaCorreccion.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdAreaLaboratorio.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoArchivo.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.EquipoCuaderno.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.ComentarioPruebasNoRealizadas.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.AreaLaboratorio_TranscripcionErroneaInoportuna.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Auditoria.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IpLogueo.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TicketConsultaExterna.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdPaciente_TicketConsultaExterna.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Procedimiento.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.OrdenesMedicas.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_IdEspecialidad.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoPatologia.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.OpcionesOrdenMedica_RelUM.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.OpcionesOrdenMedica_RelUM_Correc.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.OpcionesOrdenMedica_RelMM.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Relaciones_OrdenesMedicas.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_Proc.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_Procedimiento.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.DescripcionCorta.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_Indices.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedicaRangos.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Condicionales.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_Procedimiento_Orden.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.TipoOrdenMedica_Procedimiento_Id.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.IdAtencion_OM.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.QuitarRelacion.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.OrdenesMedicas_IdEspecialidad.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.AtencionTrabajador.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.CodigosRespuestaIndicadoresDesempeno.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.EscalafonDeLegajos.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Seccion.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.GenerateResource.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Prioridad_Ticket.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Presion_string.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Presion_string2.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_NroBoletaFua.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_IdImpresion.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_IdImpresion1.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_IdMedico_Medico.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_IdImpresionRevision.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_IdTurno.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoRegistrado.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoRegistrado2.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_EdadPaciente.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_EdadPaciente2.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_EdadPaciente3.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoImpreso.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoImpreso2.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoImpreso3.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoImpreso4.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.PacienteSinResultado_ResultadoNoImpreso5.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_AtencionEspecial.resources
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Contexto\obj\Debug\Dominio.Contexto.Migrations.Ticket_AtencionEspecialBool.resources

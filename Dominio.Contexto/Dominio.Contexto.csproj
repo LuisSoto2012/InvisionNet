@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65B93CC9-E5DC-4965-8CDE-0E618249DDDB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dominio.Contexto</RootNamespace>
+    <AssemblyName>Dominio.Contexto</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InoBD.cs" />
+    <Compile Include="Migrations\201904241703595_InicialMigration.cs" />
+    <Compile Include="Migrations\201904241703595_InicialMigration.Designer.cs">
+      <DependentUpon>201904241703595_InicialMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904241705259_ModuloCrud.cs" />
+    <Compile Include="Migrations\201904241705259_ModuloCrud.Designer.cs">
+      <DependentUpon>201904241705259_ModuloCrud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904241956483_SubModuloCrud.cs" />
+    <Compile Include="Migrations\201904241956483_SubModuloCrud.Designer.cs">
+      <DependentUpon>201904241956483_SubModuloCrud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904251609043_IdRolSubModulo.cs" />
+    <Compile Include="Migrations\201904251609043_IdRolSubModulo.Designer.cs">
+      <DependentUpon>201904251609043_IdRolSubModulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905021757160_CambiandoTipoDato.cs" />
+    <Compile Include="Migrations\201905021757160_CambiandoTipoDato.Designer.cs">
+      <DependentUpon>201905021757160_CambiandoTipoDato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905081719196_AreaLaboratorio.cs" />
+    <Compile Include="Migrations\201905081719196_AreaLaboratorio.Designer.cs">
+      <DependentUpon>201905081719196_AreaLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905081756320_TablasLaboratorio3.cs" />
+    <Compile Include="Migrations\201905081756320_TablasLaboratorio3.Designer.cs">
+      <DependentUpon>201905081756320_TablasLaboratorio3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905081801487_TablasLaboratorio3_2.cs" />
+    <Compile Include="Migrations\201905081801487_TablasLaboratorio3_2.Designer.cs">
+      <DependentUpon>201905081801487_TablasLaboratorio3_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905082027589_TablasLaboratorioCorreccion.cs" />
+    <Compile Include="Migrations\201905082027589_TablasLaboratorioCorreccion.Designer.cs">
+      <DependentUpon>201905082027589_TablasLaboratorioCorreccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905092042376_SubModuloAreaLaboratorio.cs" />
+    <Compile Include="Migrations\201905092042376_SubModuloAreaLaboratorio.Designer.cs">
+      <DependentUpon>201905092042376_SubModuloAreaLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905131754540_nombreprueba.cs" />
+    <Compile Include="Migrations\201905131754540_nombreprueba.Designer.cs">
+      <DependentUpon>201905131754540_nombreprueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905151512189_UltimosLaboratorio.cs" />
+    <Compile Include="Migrations\201905151512189_UltimosLaboratorio.Designer.cs">
+      <DependentUpon>201905151512189_UltimosLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905161330510_Reporte.cs" />
+    <Compile Include="Migrations\201905161330510_Reporte.Designer.cs">
+      <DependentUpon>201905161330510_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905161345598_SubModulo-Reporte.cs" />
+    <Compile Include="Migrations\201905161345598_SubModulo-Reporte.Designer.cs">
+      <DependentUpon>201905161345598_SubModulo-Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905161359241_columnImagen.cs" />
+    <Compile Include="Migrations\201905161359241_columnImagen.Designer.cs">
+      <DependentUpon>201905161359241_columnImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905161537488_NombreSSRS.cs" />
+    <Compile Include="Migrations\201905161537488_NombreSSRS.Designer.cs">
+      <DependentUpon>201905161537488_NombreSSRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905161652499_DescripcionSSRS.cs" />
+    <Compile Include="Migrations\201905161652499_DescripcionSSRS.Designer.cs">
+      <DependentUpon>201905161652499_DescripcionSSRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905211917590_TamanoDialog.cs" />
+    <Compile Include="Migrations\201905211917590_TamanoDialog.Designer.cs">
+      <DependentUpon>201905211917590_TamanoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905281521242_Archivos.cs" />
+    <Compile Include="Migrations\201905281521242_Archivos.Designer.cs">
+      <DependentUpon>201905281521242_Archivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905282128250_IdTipoArchivo.cs" />
+    <Compile Include="Migrations\201905282128250_IdTipoArchivo.Designer.cs">
+      <DependentUpon>201905282128250_IdTipoArchivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905291542358_ComentarioLaboratorio.cs" />
+    <Compile Include="Migrations\201905291542358_ComentarioLaboratorio.Designer.cs">
+      <DependentUpon>201905291542358_ComentarioLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905291635289_TipoPruebaLipemica.cs" />
+    <Compile Include="Migrations\201905291635289_TipoPruebaLipemica.Designer.cs">
+      <DependentUpon>201905291635289_TipoPruebaLipemica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905291646410_TipoPruebaLipemicaCorreccion.cs" />
+    <Compile Include="Migrations\201905291646410_TipoPruebaLipemicaCorreccion.Designer.cs">
+      <DependentUpon>201905291646410_TipoPruebaLipemicaCorreccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905291727170_IdAreaLaboratorio.cs" />
+    <Compile Include="Migrations\201905291727170_IdAreaLaboratorio.Designer.cs">
+      <DependentUpon>201905291727170_IdAreaLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905291945168_TipoArchivo.cs" />
+    <Compile Include="Migrations\201905291945168_TipoArchivo.Designer.cs">
+      <DependentUpon>201905291945168_TipoArchivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906061748194_EquipoCuaderno.cs" />
+    <Compile Include="Migrations\201906061748194_EquipoCuaderno.Designer.cs">
+      <DependentUpon>201906061748194_EquipoCuaderno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906071619261_PacienteSinResultado.cs" />
+    <Compile Include="Migrations\201906071619261_PacienteSinResultado.Designer.cs">
+      <DependentUpon>201906071619261_PacienteSinResultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906101442123_ComentarioPruebasNoRealizadas.cs" />
+    <Compile Include="Migrations\201906101442123_ComentarioPruebasNoRealizadas.Designer.cs">
+      <DependentUpon>201906101442123_ComentarioPruebasNoRealizadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906101459493_AreaLaboratorio_TranscripcionErroneaInoportuna.cs" />
+    <Compile Include="Migrations\201906101459493_AreaLaboratorio_TranscripcionErroneaInoportuna.Designer.cs">
+      <DependentUpon>201906101459493_AreaLaboratorio_TranscripcionErroneaInoportuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906182008246_Auditoria.cs" />
+    <Compile Include="Migrations\201906182008246_Auditoria.Designer.cs">
+      <DependentUpon>201906182008246_Auditoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906182025162_IpLogueo.cs" />
+    <Compile Include="Migrations\201906182025162_IpLogueo.Designer.cs">
+      <DependentUpon>201906182025162_IpLogueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908012010337_TicketConsultaExterna.cs" />
+    <Compile Include="Migrations\201908012010337_TicketConsultaExterna.Designer.cs">
+      <DependentUpon>201908012010337_TicketConsultaExterna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908082058321_IdPaciente_TicketConsultaExterna.cs" />
+    <Compile Include="Migrations\201908082058321_IdPaciente_TicketConsultaExterna.Designer.cs">
+      <DependentUpon>201908082058321_IdPaciente_TicketConsultaExterna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909021736096_Procedimiento.cs" />
+    <Compile Include="Migrations\201909021736096_Procedimiento.Designer.cs">
+      <DependentUpon>201909021736096_Procedimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909042107227_OrdenesMedicas.cs" />
+    <Compile Include="Migrations\201909042107227_OrdenesMedicas.Designer.cs">
+      <DependentUpon>201909042107227_OrdenesMedicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909051501151_TipoOrdenMedica_IdEspecialidad.cs" />
+    <Compile Include="Migrations\201909051501151_TipoOrdenMedica_IdEspecialidad.Designer.cs">
+      <DependentUpon>201909051501151_TipoOrdenMedica_IdEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909131429262_TipoPatologia.cs" />
+    <Compile Include="Migrations\201909131429262_TipoPatologia.Designer.cs">
+      <DependentUpon>201909131429262_TipoPatologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909131522571_OpcionesOrdenMedica_RelUM.cs" />
+    <Compile Include="Migrations\201909131522571_OpcionesOrdenMedica_RelUM.Designer.cs">
+      <DependentUpon>201909131522571_OpcionesOrdenMedica_RelUM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909131541370_OpcionesOrdenMedica_RelUM_Correc.cs" />
+    <Compile Include="Migrations\201909131541370_OpcionesOrdenMedica_RelUM_Correc.Designer.cs">
+      <DependentUpon>201909131541370_OpcionesOrdenMedica_RelUM_Correc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909131601377_OpcionesOrdenMedica_RelMM.cs" />
+    <Compile Include="Migrations\201909131601377_OpcionesOrdenMedica_RelMM.Designer.cs">
+      <DependentUpon>201909131601377_OpcionesOrdenMedica_RelMM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909131659407_Relaciones_OrdenesMedicas.cs" />
+    <Compile Include="Migrations\201909131659407_Relaciones_OrdenesMedicas.Designer.cs">
+      <DependentUpon>201909131659407_Relaciones_OrdenesMedicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909162130221_TipoOrdenMedica_Proc.cs" />
+    <Compile Include="Migrations\201909162130221_TipoOrdenMedica_Proc.Designer.cs">
+      <DependentUpon>201909162130221_TipoOrdenMedica_Proc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909172119167_TipoOrdenMedica_Procedimiento.cs" />
+    <Compile Include="Migrations\201909172119167_TipoOrdenMedica_Procedimiento.Designer.cs">
+      <DependentUpon>201909172119167_TipoOrdenMedica_Procedimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909182003337_DescripcionCorta.cs" />
+    <Compile Include="Migrations\201909182003337_DescripcionCorta.Designer.cs">
+      <DependentUpon>201909182003337_DescripcionCorta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909191405260_TipoOrdenMedica_Indices.cs" />
+    <Compile Include="Migrations\201909191405260_TipoOrdenMedica_Indices.Designer.cs">
+      <DependentUpon>201909191405260_TipoOrdenMedica_Indices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909191659384_TipoOrdenMedicaRangos.cs" />
+    <Compile Include="Migrations\201909191659384_TipoOrdenMedicaRangos.Designer.cs">
+      <DependentUpon>201909191659384_TipoOrdenMedicaRangos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909231453005_Condicionales.cs" />
+    <Compile Include="Migrations\201909231453005_Condicionales.Designer.cs">
+      <DependentUpon>201909231453005_Condicionales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909231651338_TipoOrdenMedica_Procedimiento_Orden.cs" />
+    <Compile Include="Migrations\201909231651338_TipoOrdenMedica_Procedimiento_Orden.Designer.cs">
+      <DependentUpon>201909231651338_TipoOrdenMedica_Procedimiento_Orden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909231656290_TipoOrdenMedica_Procedimiento_Id.cs" />
+    <Compile Include="Migrations\201909231656290_TipoOrdenMedica_Procedimiento_Id.Designer.cs">
+      <DependentUpon>201909231656290_TipoOrdenMedica_Procedimiento_Id.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910021346460_IdAtencion_OM.cs" />
+    <Compile Include="Migrations\201910021346460_IdAtencion_OM.Designer.cs">
+      <DependentUpon>201910021346460_IdAtencion_OM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910030129125_QuitarRelacion.cs" />
+    <Compile Include="Migrations\201910030129125_QuitarRelacion.Designer.cs">
+      <DependentUpon>201910030129125_QuitarRelacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910031404025_OrdenesMedicas_IdEspecialidad.cs" />
+    <Compile Include="Migrations\201910031404025_OrdenesMedicas_IdEspecialidad.Designer.cs">
+      <DependentUpon>201910031404025_OrdenesMedicas_IdEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910031648375_AtencionTrabajador.cs" />
+    <Compile Include="Migrations\201910031648375_AtencionTrabajador.Designer.cs">
+      <DependentUpon>201910031648375_AtencionTrabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910041719001_CodigosRespuestaIndicadoresDesempeno.cs" />
+    <Compile Include="Migrations\201910041719001_CodigosRespuestaIndicadoresDesempeno.Designer.cs">
+      <DependentUpon>201910041719001_CodigosRespuestaIndicadoresDesempeno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910092014387_EscalafonDeLegajos.cs" />
+    <Compile Include="Migrations\201910092014387_EscalafonDeLegajos.Designer.cs">
+      <DependentUpon>201910092014387_EscalafonDeLegajos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910111652337_Seccion.cs" />
+    <Compile Include="Migrations\201910111652337_Seccion.Designer.cs">
+      <DependentUpon>201910111652337_Seccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910112048162_Prioridad_Ticket.cs" />
+    <Compile Include="Migrations\201910112048162_Prioridad_Ticket.Designer.cs">
+      <DependentUpon>201910112048162_Prioridad_Ticket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910160322117_Presion_string.cs" />
+    <Compile Include="Migrations\201910160322117_Presion_string.Designer.cs">
+      <DependentUpon>201910160322117_Presion_string.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910160324169_Presion_string2.cs" />
+    <Compile Include="Migrations\201910160324169_Presion_string2.Designer.cs">
+      <DependentUpon>201910160324169_Presion_string2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910282128361_Ticket_NroBoletaFua.cs" />
+    <Compile Include="Migrations\201910282128361_Ticket_NroBoletaFua.Designer.cs">
+      <DependentUpon>201910282128361_Ticket_NroBoletaFua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910291458230_Ticket_IdImpresion.cs" />
+    <Compile Include="Migrations\201910291458230_Ticket_IdImpresion.Designer.cs">
+      <DependentUpon>201910291458230_Ticket_IdImpresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910291500299_Ticket_IdImpresion1.cs" />
+    <Compile Include="Migrations\201910291500299_Ticket_IdImpresion1.Designer.cs">
+      <DependentUpon>201910291500299_Ticket_IdImpresion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910291704427_Ticket_IdMedico_Medico.cs" />
+    <Compile Include="Migrations\201910291704427_Ticket_IdMedico_Medico.Designer.cs">
+      <DependentUpon>201910291704427_Ticket_IdMedico_Medico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910301809595_Ticket_IdImpresionRevision.cs" />
+    <Compile Include="Migrations\201910301809595_Ticket_IdImpresionRevision.Designer.cs">
+      <DependentUpon>201910301809595_Ticket_IdImpresionRevision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911021819285_Ticket_IdTurno.cs" />
+    <Compile Include="Migrations\201911021819285_Ticket_IdTurno.Designer.cs">
+      <DependentUpon>201911021819285_Ticket_IdTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911041654089_PacienteSinResultado_ResultadoNoRegistrado.cs" />
+    <Compile Include="Migrations\201911041654089_PacienteSinResultado_ResultadoNoRegistrado.Designer.cs">
+      <DependentUpon>201911041654089_PacienteSinResultado_ResultadoNoRegistrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911041737161_PacienteSinResultado_ResultadoNoRegistrado2.cs" />
+    <Compile Include="Migrations\201911041737161_PacienteSinResultado_ResultadoNoRegistrado2.Designer.cs">
+      <DependentUpon>201911041737161_PacienteSinResultado_ResultadoNoRegistrado2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911051402262_Ticket_EdadPaciente.cs" />
+    <Compile Include="Migrations\201911051402262_Ticket_EdadPaciente.Designer.cs">
+      <DependentUpon>201911051402262_Ticket_EdadPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911051414311_Ticket_EdadPaciente2.cs" />
+    <Compile Include="Migrations\201911051414311_Ticket_EdadPaciente2.Designer.cs">
+      <DependentUpon>201911051414311_Ticket_EdadPaciente2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911051418432_Ticket_EdadPaciente3.cs" />
+    <Compile Include="Migrations\201911051418432_Ticket_EdadPaciente3.Designer.cs">
+      <DependentUpon>201911051418432_Ticket_EdadPaciente3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911061741139_PacienteSinResultado_ResultadoNoImpreso.cs" />
+    <Compile Include="Migrations\201911061741139_PacienteSinResultado_ResultadoNoImpreso.Designer.cs">
+      <DependentUpon>201911061741139_PacienteSinResultado_ResultadoNoImpreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911071306591_PacienteSinResultado_ResultadoNoImpreso2.cs" />
+    <Compile Include="Migrations\201911071306591_PacienteSinResultado_ResultadoNoImpreso2.Designer.cs">
+      <DependentUpon>201911071306591_PacienteSinResultado_ResultadoNoImpreso2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911071459591_PacienteSinResultado_ResultadoNoImpreso3.cs" />
+    <Compile Include="Migrations\201911071459591_PacienteSinResultado_ResultadoNoImpreso3.Designer.cs">
+      <DependentUpon>201911071459591_PacienteSinResultado_ResultadoNoImpreso3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911071510489_PacienteSinResultado_ResultadoNoImpreso4.cs" />
+    <Compile Include="Migrations\201911071510489_PacienteSinResultado_ResultadoNoImpreso4.Designer.cs">
+      <DependentUpon>201911071510489_PacienteSinResultado_ResultadoNoImpreso4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911071529578_PacienteSinResultado_ResultadoNoImpreso5.cs" />
+    <Compile Include="Migrations\201911071529578_PacienteSinResultado_ResultadoNoImpreso5.Designer.cs">
+      <DependentUpon>201911071529578_PacienteSinResultado_ResultadoNoImpreso5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911111545130_Ticket_AtencionEspecial.cs" />
+    <Compile Include="Migrations\201911111545130_Ticket_AtencionEspecial.Designer.cs">
+      <DependentUpon>201911111545130_Ticket_AtencionEspecial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911111604191_Ticket_AtencionEspecialBool.cs" />
+    <Compile Include="Migrations\201911111604191_Ticket_AtencionEspecialBool.Designer.cs">
+      <DependentUpon>201911111604191_Ticket_AtencionEspecialBool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912121949132_Archivo_AgregarNumeroDocumento.cs" />
+    <Compile Include="Migrations\201912121949132_Archivo_AgregarNumeroDocumento.Designer.cs">
+      <DependentUpon>201912121949132_Archivo_AgregarNumeroDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GalenPlusBD.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Migrations\Query" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio.Entidades\Dominio.Entidades.csproj">
+      <Project>{f0df7833-718f-4a44-aa83-28db4ee15aa5}</Project>
+      <Name>Dominio.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201904241703595_InicialMigration.resx">
+      <DependentUpon>201904241703595_InicialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904241705259_ModuloCrud.resx">
+      <DependentUpon>201904241705259_ModuloCrud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904241956483_SubModuloCrud.resx">
+      <DependentUpon>201904241956483_SubModuloCrud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904251609043_IdRolSubModulo.resx">
+      <DependentUpon>201904251609043_IdRolSubModulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905021757160_CambiandoTipoDato.resx">
+      <DependentUpon>201905021757160_CambiandoTipoDato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905081719196_AreaLaboratorio.resx">
+      <DependentUpon>201905081719196_AreaLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905081756320_TablasLaboratorio3.resx">
+      <DependentUpon>201905081756320_TablasLaboratorio3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905081801487_TablasLaboratorio3_2.resx">
+      <DependentUpon>201905081801487_TablasLaboratorio3_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905082027589_TablasLaboratorioCorreccion.resx">
+      <DependentUpon>201905082027589_TablasLaboratorioCorreccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905092042376_SubModuloAreaLaboratorio.resx">
+      <DependentUpon>201905092042376_SubModuloAreaLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905131754540_nombreprueba.resx">
+      <DependentUpon>201905131754540_nombreprueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905151512189_UltimosLaboratorio.resx">
+      <DependentUpon>201905151512189_UltimosLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905161330510_Reporte.resx">
+      <DependentUpon>201905161330510_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905161345598_SubModulo-Reporte.resx">
+      <DependentUpon>201905161345598_SubModulo-Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905161359241_columnImagen.resx">
+      <DependentUpon>201905161359241_columnImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905161537488_NombreSSRS.resx">
+      <DependentUpon>201905161537488_NombreSSRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905161652499_DescripcionSSRS.resx">
+      <DependentUpon>201905161652499_DescripcionSSRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905211917590_TamanoDialog.resx">
+      <DependentUpon>201905211917590_TamanoDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905281521242_Archivos.resx">
+      <DependentUpon>201905281521242_Archivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905282128250_IdTipoArchivo.resx">
+      <DependentUpon>201905282128250_IdTipoArchivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905291542358_ComentarioLaboratorio.resx">
+      <DependentUpon>201905291542358_ComentarioLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905291635289_TipoPruebaLipemica.resx">
+      <DependentUpon>201905291635289_TipoPruebaLipemica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905291646410_TipoPruebaLipemicaCorreccion.resx">
+      <DependentUpon>201905291646410_TipoPruebaLipemicaCorreccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905291727170_IdAreaLaboratorio.resx">
+      <DependentUpon>201905291727170_IdAreaLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905291945168_TipoArchivo.resx">
+      <DependentUpon>201905291945168_TipoArchivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906061748194_EquipoCuaderno.resx">
+      <DependentUpon>201906061748194_EquipoCuaderno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906071619261_PacienteSinResultado.resx">
+      <DependentUpon>201906071619261_PacienteSinResultado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906101442123_ComentarioPruebasNoRealizadas.resx">
+      <DependentUpon>201906101442123_ComentarioPruebasNoRealizadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906101459493_AreaLaboratorio_TranscripcionErroneaInoportuna.resx">
+      <DependentUpon>201906101459493_AreaLaboratorio_TranscripcionErroneaInoportuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906182008246_Auditoria.resx">
+      <DependentUpon>201906182008246_Auditoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906182025162_IpLogueo.resx">
+      <DependentUpon>201906182025162_IpLogueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908012010337_TicketConsultaExterna.resx">
+      <DependentUpon>201908012010337_TicketConsultaExterna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908082058321_IdPaciente_TicketConsultaExterna.resx">
+      <DependentUpon>201908082058321_IdPaciente_TicketConsultaExterna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909021736096_Procedimiento.resx">
+      <DependentUpon>201909021736096_Procedimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909042107227_OrdenesMedicas.resx">
+      <DependentUpon>201909042107227_OrdenesMedicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909051501151_TipoOrdenMedica_IdEspecialidad.resx">
+      <DependentUpon>201909051501151_TipoOrdenMedica_IdEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909131429262_TipoPatologia.resx">
+      <DependentUpon>201909131429262_TipoPatologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909131522571_OpcionesOrdenMedica_RelUM.resx">
+      <DependentUpon>201909131522571_OpcionesOrdenMedica_RelUM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909131541370_OpcionesOrdenMedica_RelUM_Correc.resx">
+      <DependentUpon>201909131541370_OpcionesOrdenMedica_RelUM_Correc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909131601377_OpcionesOrdenMedica_RelMM.resx">
+      <DependentUpon>201909131601377_OpcionesOrdenMedica_RelMM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909131659407_Relaciones_OrdenesMedicas.resx">
+      <DependentUpon>201909131659407_Relaciones_OrdenesMedicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909162130221_TipoOrdenMedica_Proc.resx">
+      <DependentUpon>201909162130221_TipoOrdenMedica_Proc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909172119167_TipoOrdenMedica_Procedimiento.resx">
+      <DependentUpon>201909172119167_TipoOrdenMedica_Procedimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909182003337_DescripcionCorta.resx">
+      <DependentUpon>201909182003337_DescripcionCorta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909191405260_TipoOrdenMedica_Indices.resx">
+      <DependentUpon>201909191405260_TipoOrdenMedica_Indices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909191659384_TipoOrdenMedicaRangos.resx">
+      <DependentUpon>201909191659384_TipoOrdenMedicaRangos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909231453005_Condicionales.resx">
+      <DependentUpon>201909231453005_Condicionales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909231651338_TipoOrdenMedica_Procedimiento_Orden.resx">
+      <DependentUpon>201909231651338_TipoOrdenMedica_Procedimiento_Orden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909231656290_TipoOrdenMedica_Procedimiento_Id.resx">
+      <DependentUpon>201909231656290_TipoOrdenMedica_Procedimiento_Id.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910021346460_IdAtencion_OM.resx">
+      <DependentUpon>201910021346460_IdAtencion_OM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910030129125_QuitarRelacion.resx">
+      <DependentUpon>201910030129125_QuitarRelacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910031404025_OrdenesMedicas_IdEspecialidad.resx">
+      <DependentUpon>201910031404025_OrdenesMedicas_IdEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910031648375_AtencionTrabajador.resx">
+      <DependentUpon>201910031648375_AtencionTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910041719001_CodigosRespuestaIndicadoresDesempeno.resx">
+      <DependentUpon>201910041719001_CodigosRespuestaIndicadoresDesempeno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910092014387_EscalafonDeLegajos.resx">
+      <DependentUpon>201910092014387_EscalafonDeLegajos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910111652337_Seccion.resx">
+      <DependentUpon>201910111652337_Seccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910112048162_Prioridad_Ticket.resx">
+      <DependentUpon>201910112048162_Prioridad_Ticket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910160322117_Presion_string.resx">
+      <DependentUpon>201910160322117_Presion_string.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910160324169_Presion_string2.resx">
+      <DependentUpon>201910160324169_Presion_string2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910282128361_Ticket_NroBoletaFua.resx">
+      <DependentUpon>201910282128361_Ticket_NroBoletaFua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910291458230_Ticket_IdImpresion.resx">
+      <DependentUpon>201910291458230_Ticket_IdImpresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910291500299_Ticket_IdImpresion1.resx">
+      <DependentUpon>201910291500299_Ticket_IdImpresion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910291704427_Ticket_IdMedico_Medico.resx">
+      <DependentUpon>201910291704427_Ticket_IdMedico_Medico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910301809595_Ticket_IdImpresionRevision.resx">
+      <DependentUpon>201910301809595_Ticket_IdImpresionRevision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911021819285_Ticket_IdTurno.resx">
+      <DependentUpon>201911021819285_Ticket_IdTurno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911041654089_PacienteSinResultado_ResultadoNoRegistrado.resx">
+      <DependentUpon>201911041654089_PacienteSinResultado_ResultadoNoRegistrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911041737161_PacienteSinResultado_ResultadoNoRegistrado2.resx">
+      <DependentUpon>201911041737161_PacienteSinResultado_ResultadoNoRegistrado2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911051402262_Ticket_EdadPaciente.resx">
+      <DependentUpon>201911051402262_Ticket_EdadPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911051414311_Ticket_EdadPaciente2.resx">
+      <DependentUpon>201911051414311_Ticket_EdadPaciente2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911051418432_Ticket_EdadPaciente3.resx">
+      <DependentUpon>201911051418432_Ticket_EdadPaciente3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911061741139_PacienteSinResultado_ResultadoNoImpreso.resx">
+      <DependentUpon>201911061741139_PacienteSinResultado_ResultadoNoImpreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911071306591_PacienteSinResultado_ResultadoNoImpreso2.resx">
+      <DependentUpon>201911071306591_PacienteSinResultado_ResultadoNoImpreso2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911071459591_PacienteSinResultado_ResultadoNoImpreso3.resx">
+      <DependentUpon>201911071459591_PacienteSinResultado_ResultadoNoImpreso3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911071510489_PacienteSinResultado_ResultadoNoImpreso4.resx">
+      <DependentUpon>201911071510489_PacienteSinResultado_ResultadoNoImpreso4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911071529578_PacienteSinResultado_ResultadoNoImpreso5.resx">
+      <DependentUpon>201911071529578_PacienteSinResultado_ResultadoNoImpreso5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911111545130_Ticket_AtencionEspecial.resx">
+      <DependentUpon>201911111545130_Ticket_AtencionEspecial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911111604191_Ticket_AtencionEspecialBool.resx">
+      <DependentUpon>201911111604191_Ticket_AtencionEspecialBool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912121949132_Archivo_AgregarNumeroDocumento.resx">
+      <DependentUpon>201912121949132_Archivo_AgregarNumeroDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

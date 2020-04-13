@@ -1,0 +1,383 @@
+USE [Ino_Invision]
+GO
+
+SET IDENTITY_INSERT [dbo].[CondicionTrabajo] ON
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'NOMBRADO', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Residentes', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'Internos', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (4, N'Alumnos', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (5, N'Agente comunitario', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (6, N'Otros (especifique)', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (7, N'Destacado', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (8, N'Ad-honoren', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (9, N'Personal externo', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (10, N'Contratados salud basica', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (11, N'C.A.S.', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (12, N'Contratados recursos ordinarios', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (13, N'Contratados recursos directamente recaudados', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (14, N'Serumistas rentados', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (15, N'Serumistas equivalente', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (16, N'Contratado', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (17, N'SERVICIOS DE TERCEROS', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[CondicionTrabajo] ([IdCondicionTrabajo], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (18, N'Fellows', 1, NULL, CAST(N'2019-04-22T11:35:54.220' AS DateTime), NULL, 1)
+GO
+SET IDENTITY_INSERT [dbo].[CondicionTrabajo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[TipoDocumentoIdentidad] ON 
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'DNI', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Carnet Extranjeria', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'Pasaporte', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (4, N'Documento de Identidad extranjero', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (5, N'Código recién Nacido', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (6, N'Código Temporal para FFAA y PNP', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (7, N'C.I.U', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (8, N'Madre: TipoDoc+ DNI+N°Hijo', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (9, N'Madre: Autogenerado+N°Hijo', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoDocumentoIdentidad] ([IdTipoDocumentoIdentidad], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (10, N'Sin registro madre/tutor', 1, NULL, CAST(N'2019-04-22T11:37:34.103' AS DateTime), NULL, 1)
+GO
+SET IDENTITY_INSERT [dbo].[TipoDocumentoIdentidad] OFF
+GO
+SET IDENTITY_INSERT [dbo].[TipoEmpleado] ON 
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'Artesano I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Artesano II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'Artesano III', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (4, N'Asist. Administ. I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (5, N'Asistente Social', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (6, N'Aux. De Enfermeria I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (7, N'Aux. De Estadistica I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (8, N'Aux. De Farmacia I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (9, N'Aux. De Publicaciones I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (10, N'Aux. De Sist.administrativ I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (11, N'Biologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (12, N'Capellan I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (13, N'Cargo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (14, N'Chofer I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (15, N'Cirujano Dentista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (16, N'Contador I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (17, N'Contador II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (18, N'Director', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (19, N'Enfermera (o)', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (20, N'Espec. Administ. II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (21, N'Espec. Administrativo I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (22, N'Fisioterapista Clinico Esc.sup', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (23, N'Inspector Sanitario I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (24, N'Laboratorista Clin.- Esc. Sup.', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (25, N'Mecanico I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (26, N'Nutricionista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (27, N'Nutricionista - Esc.sup.', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (28, N'Obstetriz', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (29, N'Operad. De Eq. Electronico I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (30, N'Operad. De Equipo Medico I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (31, N'Operad. De Equipo Medico II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (32, N'Operad. De Maq. Industrial I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (33, N'Operad. De Maq. Industrial II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (34, N'Operador P.a.d. I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (35, N'Psicologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (36, N'Quimico Farmaceutico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (37, N'Secretaria I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (38, N'Secretaria II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (39, N'Secretaria Iv', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (40, N'Sup. De Conserv. Y Serv. I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (41, N'Tec. Administrativo I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (42, N'Tec. Administrativo II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (43, N'Tec. Administrativo III', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (44, N'Tec. De Estadistica I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (45, N'Tec. En Archivo I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (46, N'Tec. En Enfermeria I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (47, N'Tec. En Enfermeria II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (48, N'Tec. En Estadistica I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (49, N'Tec. Informatico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (50, N'Tec. En Laboratorio I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (51, N'Tec. En Laboratorio II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (52, N'Tec. En Nutricion II', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (53, N'Tec. En Transporte I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (54, N'Tec.especializado Laboratorio', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (55, N'Tecnologo Medico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (56, N'Terapista I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (57, N'Trabajador De Servicios I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (58, N'Trabajador De Servicios III', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (59, N'Trabajador Social Esc.sup.', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (60, N'Medico Anestesiologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (61, N'Medico Cirujano', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (62, N'Medico Cirujano General', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (63, N'Medico Cirujano Pediatrico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (64, N'Medico Cirujano Torax/cardiova', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (65, N'Medico Dermatologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (66, N'Medico Endocrinologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (67, N'Medico Fisico Y Rehabilitacion', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (68, N'Medico Gastroenterologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (69, N'Medico Gineco-obstetra', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (70, N'Medico Internista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (71, N'Medico Neumologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (72, N'Medico Neurocirujano', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (73, N'Medico Neurologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (74, N'Medico Oftalmologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (75, N'Medico Oncologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (76, N'Medico Ortopedista-traumatolog', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (77, N'Medico Otorrinolaringologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (78, N'Medico Patologo Clinico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (79, N'Medico Pediatra', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (80, N'Medico Psiquiatra', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (81, N'Medico Residente 1er Año', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (82, N'Medico Residente 2do Año', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (83, N'Medico Residente 3er Año', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (84, N'Medico Reumatologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (85, N'Medico Urologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (86, N'Medico (reemplazo)', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (87, N'Técnico Sanitario', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (88, N'Licenciado en Administración', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (89, N'Electricista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (90, N'Asistente en servicio de salud I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (91, N'Técnico readapt. y Rehabil. Soc. I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (92, N'Superv. Prog. Sectorial I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (93, N'Tec. Contablilidad', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (94, N'Ing. de Sistemas', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (95, N'Director Sist. Adm. I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (96, N'Educacion Primaria', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (97, N'Tecnólogo Médico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (98, N'Abogado', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (99, N'Estadístico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (100, N'Tec. Especializado Rayos X', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (101, N'Economista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (102, N'Aux. Nutrición', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (103, N'Adm. de Empresas', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (104, N'Tec. Informática', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (105, N'Bach. Ing. Química', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (106, N'Medico General', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (107, N'Medico Cardiologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (108, N'Medico Nefrologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (109, N'Medico Cirujano Oncologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (110, N'Medico Epidemiologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (111, N'Medico Radiologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (112, N'Odontologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (113, N'RadioTerapeuta', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (114, N'Veterinario', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (115, N'Tec. Dental', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (116, N'Tec. En Saneamiento Ambiental', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (117, N'Tec. de Farmacia I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (118, N'Optometro(a)', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (119, N'Tecnico Especializado', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (120, N'Medico Auditor', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (121, N'Medico Cardiologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (122, N'Tecnologo Medico I', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (123, N'Asist. Profesional', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (124, N'Tec. Esp. en Rayos X', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (125, N'Operador de Equipo Medico', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (126, N'Asistente en Servicios de Salud', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (127, N'Medico Inventigador', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (128, N'Enfermera(o)- Instrumentista', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (129, N'Medico Oftalmologo Fellows', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[TipoEmpleado] ([IdTipoEmpleado], [Descripcion], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (130, N'Medico Anatomo Patologo', 1, NULL, CAST(N'2019-04-22T11:36:10.433' AS DateTime), NULL, 1)
+GO
+SET IDENTITY_INSERT [dbo].[TipoEmpleado] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Aplicacion] ON 
+GO
+INSERT [dbo].[Aplicacion] ([IdAplicacion], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'Ino INVISION', 1, 2, CAST(N'2019-04-17T00:00:00.000' AS DateTime), CAST(N'2019-04-23T12:48:43.857' AS DateTime), 1)
+GO
+INSERT [dbo].[Aplicacion] ([IdAplicacion], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Ino GalenPlus', 2, NULL, CAST(N'2019-04-23T12:18:22.930' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[Aplicacion] ([IdAplicacion], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'SIGH_EXTERNA', 2, 2, CAST(N'2019-04-23T12:22:33.467' AS DateTime), CAST(N'2019-04-23T12:24:02.690' AS DateTime), 1)
+GO
+SET IDENTITY_INSERT [dbo].[Aplicacion] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Empleado] ON 
+GO
+INSERT [dbo].[Empleado] ([IdEmpleado], [ApellidoPaterno], [ApellidoMaterno], [Nombres], [Correo], [IdCondicionTrabajo], [IdTipoEmpleado], [IdTipoDocumento], [NumeroDocumento], [CodigoPlanilla], [Usuario], [Contrasena], [LoginEstado], [LoginIp], [FechaNacimiento], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'Informatica', N'Informatica', N'Informatica', N'Informatica@gmail.com', 1, 1, 1, N'654321', N'654321', N'admin', N'B54DD6A5C814CBD4937BB6AFA760F67613BAAA10', 0, NULL, CAST(N'2019-04-15T00:00:00.000' AS DateTime), 1, 2, CAST(N'2019-04-15T16:16:38.260' AS DateTime), CAST(N'2019-04-23T12:38:50.443' AS DateTime), 1)
+GO
+INSERT [dbo].[Empleado] ([IdEmpleado], [ApellidoPaterno], [ApellidoMaterno], [Nombres], [Correo], [IdCondicionTrabajo], [IdTipoEmpleado], [IdTipoDocumento], [NumeroDocumento], [CodigoPlanilla], [Usuario], [Contrasena], [LoginEstado], [LoginIp], [FechaNacimiento], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Zevallos2', N'Lecca2', N'Giancarlo2', N'giancarlo@gmail.com', 1, 1, 1, N'47551036', N'123456', N'gzevallos', N'40BD001563085FC35165329EA1FF5C5ECBDBBEEF', 0, NULL, CAST(N'2019-04-15T00:00:00.000' AS DateTime), 1, 2, CAST(N'2019-04-15T12:56:44.213' AS DateTime), CAST(N'2019-04-17T14:41:11.813' AS DateTime), 1)
+GO
+INSERT [dbo].[Empleado] ([IdEmpleado], [ApellidoPaterno], [ApellidoMaterno], [Nombres], [Correo], [IdCondicionTrabajo], [IdTipoEmpleado], [IdTipoDocumento], [NumeroDocumento], [CodigoPlanilla], [Usuario], [Contrasena], [LoginEstado], [LoginIp], [FechaNacimiento], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'Ibañez2', N'Perez2', N'Renzo2', N'Renzo@gmail.com2', 1, 1, 1, N'41244124', N'42412412', N'ribanez', N'7C4A8D09CA3762AF61E59520943DC26494F8941B', 0, NULL, CAST(N'2019-04-16T00:00:00.000' AS DateTime), 1, 1, CAST(N'2019-04-16T09:31:58.537' AS DateTime), CAST(N'2019-04-16T10:29:41.343' AS DateTime), 1)
+GO
+INSERT [dbo].[Empleado] ([IdEmpleado], [ApellidoPaterno], [ApellidoMaterno], [Nombres], [Correo], [IdCondicionTrabajo], [IdTipoEmpleado], [IdTipoDocumento], [NumeroDocumento], [CodigoPlanilla], [Usuario], [Contrasena], [LoginEstado], [LoginIp], [FechaNacimiento], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (4, N'asddsa', N'safdsadf', N'Gustavo', N'rpip1212@hotmail.com', 1, 1, 1, N'1', N'1', N'renzo223', N'A106805C6157698649B576724AA6583D5E7FC175', 0, NULL, CAST(N'1922-09-09T00:00:00.000' AS DateTime), 0, 2, CAST(N'2019-04-16T12:44:45.723' AS DateTime), CAST(N'2019-04-17T14:45:40.843' AS DateTime), 0)
+GO
+INSERT [dbo].[Empleado] ([IdEmpleado], [ApellidoPaterno], [ApellidoMaterno], [Nombres], [Correo], [IdCondicionTrabajo], [IdTipoEmpleado], [IdTipoDocumento], [NumeroDocumento], [CodigoPlanilla], [Usuario], [Contrasena], [LoginEstado], [LoginIp], [FechaNacimiento], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (5, N'Caceres', N'Lecca', N'Erick', N'ecaceres@hotmail.com', 1, 1, 1, N'15616', N'132156', N'ecaceres', N'7C4A8D09CA3762AF61E59520943DC26494F8941B', 0, NULL, CAST(N'1989-01-06T00:00:00.000' AS DateTime), 0, NULL, CAST(N'2019-04-16T12:56:53.980' AS DateTime), NULL, 1)
+GO
+SET IDENTITY_INSERT [dbo].[Empleado] OFF
+GO
+INSERT [dbo].[AplicacionEmpleado] ([IdAplicacion], [IdEmpleado]) VALUES (1, 2)
+GO
+SET IDENTITY_INSERT [dbo].[Rol] ON 
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (1, N'Administrador2', 1, 2, CAST(N'2019-04-11T08:43:49.670' AS DateTime), CAST(N'2019-04-23T10:44:30.250' AS DateTime), 1)
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (2, N'Administrador', 1, NULL, CAST(N'2019-04-12T11:35:13.667' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (3, N'Medico', 1, 2, CAST(N'2019-04-12T12:07:30.500' AS DateTime), CAST(N'2019-04-12T14:08:36.493' AS DateTime), 1)
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (4, N'Cajero', 1, 2, CAST(N'2019-04-12T12:39:35.590' AS DateTime), CAST(N'2019-04-23T10:44:56.267' AS DateTime), 1)
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (5, N'Nuevo2', 1, NULL, CAST(N'2019-04-12T14:08:34.223' AS DateTime), NULL, 1)
+GO
+INSERT [dbo].[Rol] ([IdRol], [Nombre], [IdUsuarioCreacion], [IdUsuarioModificacion], [FechaCreacion], [FechaModificacion], [EsActivo]) VALUES (6, N'Paciente2', 1, 2, CAST(N'2019-04-16T08:44:01.260' AS DateTime), CAST(N'2019-04-16T08:49:17.757' AS DateTime), 0)
+GO
+SET IDENTITY_INSERT [dbo].[Rol] OFF
+GO
+INSERT [dbo].[UsuarioRol] ([IdEmpleado], [IdRol]) VALUES (1, 1)
+GO
+INSERT [dbo].[UsuarioRol] ([IdEmpleado], [IdRol]) VALUES (2, 1)
+GO
+INSERT [dbo].[UsuarioRol] ([IdEmpleado], [IdRol]) VALUES (3, 1)
+GO
+INSERT [dbo].[UsuarioRol] ([IdEmpleado], [IdRol]) VALUES (4, 1)
+GO
+INSERT [dbo].[UsuarioRol] ([IdEmpleado], [IdRol]) VALUES (5, 1)
+GO

@@ -1,0 +1,25 @@
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\Tienda\Servicios.Interfaces\obj\Release\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Release\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Release\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Release\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\bin\Release\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Servicios.Interfaces\obj\Release\Servicios.Interfaces.csproj.CoreCompileInputs.cache

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE5AA77F-1DD1-44AD-AF88-B94A1F22FA39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Servicios.Interfaces</RootNamespace>
+    <AssemblyName>Servicios.Interfaces</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adicional\IGestorDeAdicionales.cs" />
+    <Compile Include="Adicional\Peticiones\NuevaAdicional.cs" />
+    <Compile Include="Adicional\Respuestas\Adicionales.cs" />
+    <Compile Include="Aplicacion\IGestorDeAplicaciones.cs" />
+    <Compile Include="Aplicacion\Peticiones\ActualizarAplicacion.cs" />
+    <Compile Include="Aplicacion\Peticiones\NuevaAplicacion.cs" />
+    <Compile Include="Aplicacion\Respuestas\AplicacionGeneral.cs" />
+    <Compile Include="Archivo\IGestorDeArchivos.cs" />
+    <Compile Include="Archivo\Peticiones\ActualizarArchivo.cs" />
+    <Compile Include="Archivo\Peticiones\ConsultarArchivoPor.cs" />
+    <Compile Include="Archivo\Peticiones\NuevoArchivo.cs" />
+    <Compile Include="Archivo\Respuestas\ArchivoGeneral.cs" />
+    <Compile Include="Archivo\Respuestas\ArchivoPorFechaYUsuario.cs" />
+    <Compile Include="Archivo\Respuestas\ArchivosHCInt.cs" />
+    <Compile Include="Archivo\Respuestas\NroDocumentoPorHC.cs" />
+    <Compile Include="AtencionTrabajador\IGestorDeAtencionesTrabajadores.cs" />
+    <Compile Include="AtencionTrabajador\Peticiones\NuevaAtencionTrabajador.cs" />
+    <Compile Include="AtencionTrabajador\Respuestas\AtencionTrabajadorGeneral.cs" />
+    <Compile Include="Atencion\IGestorDeAtenciones.cs" />
+    <Compile Include="Atencion\Peticiones\AtencionesPor.cs" />
+    <Compile Include="Atencion\Peticiones\CitasPor.cs" />
+    <Compile Include="Atencion\Peticiones\PacientesPor.cs" />
+    <Compile Include="Atencion\Respuestas\AtencionFiltro.cs" />
+    <Compile Include="Atencion\Respuestas\CitadosPorFecha.cs" />
+    <Compile Include="Atencion\Respuestas\CitadosPorFechaMedicoEspecialidad.cs" />
+    <Compile Include="Atencion\Respuestas\Diagnostico.cs" />
+    <Compile Include="Atencion\Respuestas\RegistroAtencion.cs" />
+    <Compile Include="Atencion\Respuestas\ProcedimientoDto.cs" />
+    <Compile Include="Auditoria\IGestorDeAuditoria.cs" />
+    <Compile Include="Auditoria\Peticiones\AuditoriaGeneral.cs" />
+    <Compile Include="BonoDesempeno\IGestorDeBonoDesempeno.cs" />
+    <Compile Include="BonoDesempeno\Peticiones\DatosTramaBono.cs" />
+    <Compile Include="BonoDesempeno\Repuestas\DiferimientoCitas.cs" />
+    <Compile Include="BonoDesempeno\Repuestas\FormatoTrama.cs" />
+    <Compile Include="BonoDesempeno\Repuestas\FormatoTramaConDias.cs" />
+    <Compile Include="BonoDesempeno\Repuestas\TiempoEsperaAtencion.cs" />
+    <Compile Include="Compartido\MantenimientoBasico.cs" />
+    <Compile Include="Comunes\Respuestas\ComboBox.cs" />
+    <Compile Include="Comunes\IGestorDeComunes.cs" />
+    <Compile Include="Comunes\Respuestas\PruebaLaboratorio.cs" />
+    <Compile Include="Congreso\IGestorDeCongreso.cs" />
+    <Compile Include="Congreso\Peticiones\NuevaAsistencia.cs" />
+    <Compile Include="Congreso\Respuestas\AsistenciaGeneral.cs" />
+    <Compile Include="Congreso\Respuestas\EventoGeneral.cs" />
+    <Compile Include="Congreso\Respuestas\ParticipanteGeneral.cs" />
+    <Compile Include="Congreso\Respuestas\ValidarAsistenciaGeneral.cs" />
+    <Compile Include="Laboratorio\IGestorDeIndicadoresGestion.cs" />
+    <Compile Include="Laboratorio\IGestorDePedidosAnalisis.cs" />
+    <Compile Include="Laboratorio\IGestorDeProcesoAnalitico.cs" />
+    <Compile Include="Laboratorio\IGestorDeTomaMuestra.cs" />
+    <Compile Include="Laboratorio\IGestorDeTranscripcionResultados.cs" />
+    <Compile Include="Laboratorio\Peticiones\CalibracionDeficiente\ActualizarCalibracionDeficiente.cs" />
+    <Compile Include="Laboratorio\Peticiones\CalibracionDeficiente\NuevoCalibracionDeficiente.cs" />
+    <Compile Include="Laboratorio\Peticiones\EmpleoReactivo\ActualizarEmpleoReactivo.cs" />
+    <Compile Include="Laboratorio\Peticiones\EmpleoReactivo\NuevoEmpleoReactivo.cs" />
+    <Compile Include="Laboratorio\Peticiones\EquipoMalCalibrado\ActualizarEquipoMalCalibrado.cs" />
+    <Compile Include="Laboratorio\Peticiones\EquipoMalCalibrado\NuevoEquipoMalCalibrado.cs" />
+    <Compile Include="Laboratorio\Peticiones\EquipoUPS\ActualizarEquipoUPS.cs" />
+    <Compile Include="Laboratorio\Peticiones\EquipoUPS\NuevoEquipoUPS.cs" />
+    <Compile Include="Laboratorio\Peticiones\IncidentesPacientes\ActualizarIncidentesPacientes.cs" />
+    <Compile Include="Laboratorio\Peticiones\IncidentesPacientes\NuevoIncidentesPacientes.cs" />
+    <Compile Include="Laboratorio\Peticiones\IncumplimientoAnalisis\ActualizarIncumplimientoAnalisis.cs" />
+    <Compile Include="Laboratorio\Peticiones\IncumplimientoAnalisis\NuevoIncumplimientoAnalisis.cs" />
+    <Compile Include="Laboratorio\Peticiones\MaterialNoCalibrado\ActualizarMaterialNoCalibrado.cs" />
+    <Compile Include="Laboratorio\Peticiones\MaterialNoCalibrado\NuevoMaterialNoCalibrado.cs" />
+    <Compile Include="Laboratorio\Peticiones\MuestraHemolizadaLipemica\ActualizarMuestraHemolizadaLipemica.cs" />
+    <Compile Include="Laboratorio\Peticiones\MuestraHemolizadaLipemica\NuevoMuestraHemolizadaLipemica.cs" />
+    <Compile Include="Laboratorio\Peticiones\PacienteSinResultado\ActualizarPacienteSinResultado.cs" />
+    <Compile Include="Laboratorio\Peticiones\PacienteSinResultado\NuevoPacienteSinResultado.cs" />
+    <Compile Include="Laboratorio\Peticiones\PocoFrecuente\ActualizarPocoFrecuente.cs" />
+    <Compile Include="Laboratorio\Peticiones\PocoFrecuente\NuevoPocoFrecuente.cs" />
+    <Compile Include="Laboratorio\Peticiones\PruebasNoRealizadas\NuevoPruebasNoRealizadas.cs" />
+    <Compile Include="Laboratorio\Peticiones\PruebasNoRealizadas\ActualizarPruebasNoRealizadas.cs" />
+    <Compile Include="Laboratorio\Peticiones\RecoleccionMuestra\ActualizarRecoleccionMuestra.cs" />
+    <Compile Include="Laboratorio\Peticiones\RecoleccionMuestra\NuevoRecoleccionMuestra.cs" />
+    <Compile Include="Laboratorio\Peticiones\RendimientoHoraTrabajador\ActualizarRendimientoHoraTrabajador.cs" />
+    <Compile Include="Laboratorio\Peticiones\RendimientoHoraTrabajador\NuevoRendimientoHoraTrabajador.cs" />
+    <Compile Include="Laboratorio\Peticiones\SolicitudDatosIncompletos\ActualizarSolicitudDatosIncompletos.cs" />
+    <Compile Include="Laboratorio\Peticiones\SolicitudDatosIncompletos\NuevoSolicitudDatosIncompletos.cs" />
+    <Compile Include="Laboratorio\Peticiones\SueroMalReferenciado\ActualizarSueroMalReferenciado.cs" />
+    <Compile Include="Laboratorio\Peticiones\SueroMalReferenciado\NuevoSueroMalReferenciado.cs" />
+    <Compile Include="Laboratorio\Peticiones\TranscripcionErroneaInoportuna\ActualizarTranscripcionErroneaInoportuna.cs" />
+    <Compile Include="Laboratorio\Peticiones\TranscripcionErroneaInoportuna\NuevoTranscripcionErroneaInoportuna.cs" />
+    <Compile Include="Laboratorio\Peticiones\TranscripcionErronea\ActualizarTranscripcionErronea.cs" />
+    <Compile Include="Laboratorio\Peticiones\TranscripcionErronea\NuevoTranscripcionErronea.cs" />
+    <Compile Include="Laboratorio\Peticiones\VenopunturasFallidas\ActualizarVenopunturasFallidas.cs" />
+    <Compile Include="Laboratorio\Peticiones\VenopunturasFallidas\NuevoVenopunturasFallidas.cs" />
+    <Compile Include="Laboratorio\Respuestas\CalibracionDeficiente\CalibracionDeficienteGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\EmpleoReactivo\EmpleoReactivoGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\EquipoMalCalibrado\EquipoMalCalibradoGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\EquipoUPS\EquipoUPSGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\MaterialNoCalibrado\MaterialNoCalibradoGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\MuestraHemolizadaLipemica\MuestraHemolizadaLipemicaGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\PacienteSinResultado\PacienteSinResultadoGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\PocoFrecuente\PocoFrecuenteGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\PruebasNoRealizadas\PruebasNoRealizadasGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\RecoleccionMuestra\RecoleccionMuestraGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\RendimientoHoraTrabajador\RendimientoHoraTrabajadorGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\SolicitudDatosIncompletos\SolicitudDatosIncompletosGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\SueroMalReferenciado\SueroMalReferenciadoGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\TranscripcionErroneaInoportuna\TranscripcionErroneaInoportunaGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\TranscripcionErronea\TranscripcionErroneaGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\VenopunturasFallidas\VenopunturasFallidasGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\IncidentesPacientes\IncidentesPacientesGeneral.cs" />
+    <Compile Include="Laboratorio\Respuestas\IncumplimientoAnalisis\IncumplimientoAnalisisGeneral.cs" />
+    <Compile Include="Medico\Respuestas\MedicoPorEspecialidad.cs" />
+    <Compile Include="Modulo\IGestorDeModulos.cs" />
+    <Compile Include="Modulo\Peticiones\ActualizarModulo.cs" />
+    <Compile Include="Modulo\Peticiones\NuevoModulo.cs" />
+    <Compile Include="Modulo\Respuestas\ModuloGeneral.cs" />
+    <Compile Include="Modulo\Respuestas\ModuloMenu.cs" />
+    <Compile Include="OrdenMedica\IGestorDeOrdenesMedicas.cs" />
+    <Compile Include="OrdenMedica\Peticiones\NuevaOrdenesMedicasCodigos.cs" />
+    <Compile Include="OrdenMedica\Peticiones\NuevaOrdenMedica.cs" />
+    <Compile Include="OrdenMedica\Respuestas\OrdenesMedicasCodigosGeneral.cs" />
+    <Compile Include="OrdenMedica\Respuestas\OrdenMedicaGeneral.cs" />
+    <Compile Include="OrdenMedica\Respuestas\TipoOrdenMedicaGeneral.cs" />
+    <Compile Include="OrdenMedica\Respuestas\TipoOrdenMedicaRangosDto.cs" />
+    <Compile Include="Paciente\IGestorDePacientes.cs" />
+    <Compile Include="Paciente\Peticiones\BuscarPaciente.cs" />
+    <Compile Include="Paciente\Respuesta\PacienteCitado.cs" />
+    <Compile Include="Paciente\Respuesta\HistorialAtenciones.cs" />
+    <Compile Include="Paciente\Respuesta\HistorialCentroQuirurgico.cs" />
+    <Compile Include="Paciente\Respuesta\HistorialEmergencia.cs" />
+    <Compile Include="Paciente\Respuesta\HistorialLaboratorio.cs" />
+    <Compile Include="Paciente\Respuesta\HistorialRiesgoQuirurgico.cs" />
+    <Compile Include="Paciente\Respuesta\PacienteAfiliacion.cs" />
+    <Compile Include="Paciente\Respuesta\PacientePorHcDni.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Medico\IGestorDeMedicos.cs" />
+    <Compile Include="Medico\Respuestas\MedicoListar.cs" />
+    <Compile Include="Reporte\IGestorDeReportes.cs" />
+    <Compile Include="Reporte\Respuestas\ReporteGeneral.cs" />
+    <Compile Include="Seguridad\Rol\IGestorDeRoles.cs" />
+    <Compile Include="Seguridad\Rol\Peticiones\ActualizarRol.cs" />
+    <Compile Include="Seguridad\Rol\Peticiones\NuevoRol.cs" />
+    <Compile Include="Seguridad\Rol\Respuestas\RolGeneral.cs" />
+    <Compile Include="Seguridad\Token\IGestorDeToken.cs" />
+    <Compile Include="Seguridad\Usuario\IGestorDeUsuarios.cs" />
+    <Compile Include="Seguridad\Usuario\Peticiones\ActualizarEmpleado.cs" />
+    <Compile Include="Seguridad\Usuario\Peticiones\NuevoEmpleado.cs" />
+    <Compile Include="Seguridad\Usuario\Peticiones\UsuarioCambioClave.cs" />
+    <Compile Include="Seguridad\Usuario\Peticiones\UsuarioLogin.cs" />
+    <Compile Include="Seguridad\Usuario\Peticiones\UsuarioPaciente.cs" />
+    <Compile Include="Seguridad\Usuario\Respuestas\EmpleadoGeneral.cs" />
+    <Compile Include="Servicios\IGestorDeServicios.cs" />
+    <Compile Include="Servicios\Respuestas\ServicioPorEspecialidad.cs" />
+    <Compile Include="SubModulo\IGestorDeSubModulos.cs" />
+    <Compile Include="SubModulo\Peticiones\ActualizarSubModulo.cs" />
+    <Compile Include="SubModulo\Peticiones\RolSubModuloDto.cs" />
+    <Compile Include="SubModulo\Peticiones\NuevoSubModulo.cs" />
+    <Compile Include="SubModulo\Respuestas\SubModuloGeneral.cs" />
+    <Compile Include="SubModulo\Respuestas\SubModuloMenu.cs" />
+    <Compile Include="Ticket\IGestorDeTickets.cs" />
+    <Compile Include="Ticket\Peticiones\ActualizarHistoriaClinicaTemporal.cs" />
+    <Compile Include="Ticket\Peticiones\ActualizarTicketConsultaExterna.cs" />
+    <Compile Include="Ticket\Peticiones\NuevoTicketConsultaExterna.cs" />
+    <Compile Include="Ticket\Respuestas\TicketConsultaExternaGeneral.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio.Entidades\Dominio.Entidades.csproj">
+      <Project>{f0df7833-718f-4a44-aa83-28db4ee15aa5}</Project>
+      <Name>Dominio.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

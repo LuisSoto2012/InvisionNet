@@ -1,0 +1,107 @@
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Pruebas.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\obj\Release\Dominio.Pruebas.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Pruebas\obj\Release\Dominio.Pruebas.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Infraestructura.Transformacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\JWT.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\System.ValueTuple.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Infraestructura.Transformacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\JWT.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\System.ValueTuple.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\bin\Release\Newtonsoft.Json.xml
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Pruebas.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Infraestructura.Transformacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\JWT.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\System.ValueTuple.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Infraestructura.Transformacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\AutoMapper.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\JWT.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\bin\Release\System.ValueTuple.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Pruebas\obj\Release\Dominio.Pruebas.pdb

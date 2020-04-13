@@ -1,0 +1,93 @@
+2019-09-13 16:10:12,291 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+ComboBox -> OpcionesOrdenMedica (Destination member list)
+Servicios.Interfaces.Comunes.ComboBox -> Dominio.Entidades.OpcionesOrdenMedica (Destination member list)
+
+Unmapped properties:
+IdOpcionOrdenMedica
+OrdenesMedicasCodigos
+IdUsuarioCreacion
+IdUsuarioModificacion
+FechaCreacion
+FechaModificacion
+EsActivo
+
+2019-09-17 14:25:18,945 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:29:41,456 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:34:56,664 [29] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:37:33,300 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:38:17,818 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:38:40,536 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:39:54,139 [15] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:40:48,176 [21] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:41:34,040 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:42:26,485 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:47:54,426 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:49:09,545 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:52:52,168 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - El número de posición 4 de ORDER BY está fuera del intervalo de número de elementos en la lista de selección.
+El número de posición 3 de ORDER BY está fuera del intervalo de número de elementos en la lista de selección.
+2019-09-17 14:54:16,742 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:54:35,205 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:54:39,936 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:55:08,777 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:55:21,894 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-09-17 14:56:24,484 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-10-02 20:11:35,309 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - An error occurred while updating the entries. See the inner exception for details.
+2019-10-02 20:15:16,266 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - An error occurred while updating the entries. See the inner exception for details.
+2019-10-02 20:34:23,536 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-10-03 09:19:47,443 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - 
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===========================================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+TipoOrdenMedica -> ComboBox (Destination member list)
+Dominio.Entidades.TipoOrdenMedica -> Servicios.Interfaces.Comunes.ComboBox (Destination member list)
+
+Unmapped properties:
+Id
+Codigo
+
+2019-10-03 18:02:44,754 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-10-03 18:04:17,663 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - The specified cast from a materialized 'System.Int32' type to the 'System.String' type is not valid.
+2019-10-03 18:45:52,184 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Operación cancelada.
+2019-10-04 09:58:28,176 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - El certificado remoto no es válido según el procedimiento de validación.
+2019-10-04 12:49:27,322 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-10-30 11:12:19,185 [6] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2019-10-30 11:19:49,186 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2019-10-30 11:34:55,718 [39] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2019-10-30 11:35:41,760 [51] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2019-10-30 12:45:40,374 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2019-11-04 12:13:50,393 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - El método no estático necesita un destino.
+2019-11-11 10:48:24,944 [22] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-11-25 09:16:40,672 [14] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Error de conversión al convertir el valor varchar '1066281}' al tipo de datos int.
+2019-11-25 09:25:26,936 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Error de conversión al convertir el valor varchar '1066281}' al tipo de datos int.
+2019-12-12 15:48:04,839 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-12 15:48:37,963 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-12 15:49:56,675 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-12 15:50:00,349 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-12 15:50:02,641 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-12 15:50:12,073 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede implementar el método o la operación.
+2019-12-13 10:43:48,271 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - No se puede encontrar una parte de la ruta de acceso 'C:\192.168.0.11\RepositorioArchivosInvision\Chino'.
+2019-12-13 11:18:32,621 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Se canceló una tarea.
+2019-12-15 19:29:04,760 [11] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:29:21,313 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:29:23,125 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:29:39,275 [6] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:29:50,905 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:30:06,333 [5] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 19:30:39,701 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 20:23:12,732 [11] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Operación cancelada.
+2019-12-15 20:43:44,501 [11] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Se canceló una tarea.
+2019-12-15 20:54:57,585 [8] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Acceso denegado a la ruta de acceso '\\192.168.0.11\RepositorioArchivosInvision\RepositorioArchivos\7'.
+2019-12-15 20:55:17,658 [7] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Acceso denegado a la ruta de acceso '\\192.168.0.11\RepositorioArchivosInvision\RepositorioArchivos\7'.
+2019-12-15 20:57:20,199 [11] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 20:57:47,235 [11] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 20:58:32,243 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 20:59:01,409 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 20:59:30,578 [10] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.
+2019-12-15 21:00:29,463 [9] ERROR Presentacion.Web.ActionFilter.MyExceptionFilter - Referencia a objeto no establecida como instancia de un objeto.

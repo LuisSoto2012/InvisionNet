@@ -1,0 +1,115 @@
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll.config
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.xml
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CopyComplete
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.xml
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csprojAssemblyReference.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CopyComplete
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll.config
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.pdb
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.xml
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csprojAssemblyReference.cache
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CopyComplete
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Proyecto Web - INO\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Infraestructura.InyeccionDependencia.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Implementacion.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Servicios.Interfaces.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Autofac.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Dominio.Contexto.dll.config
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\JWT.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\EntityFramework.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\AutoMapper.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\bin\Debug\System.ValueTuple.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csprojAssemblyReference.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Infraestructura.InyeccionDependencia\obj\Debug\Infraestructura.InyeccionDependencia.pdb

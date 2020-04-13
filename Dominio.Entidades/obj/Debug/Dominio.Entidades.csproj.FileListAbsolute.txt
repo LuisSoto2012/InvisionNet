@@ -1,0 +1,42 @@
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+c:\users\vs2017\source\repos\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\VS2017\Desktop\Tienda2Junio\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\Tienda\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\ArquitecturaBaseEF\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO - copia\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Proyecto Web - INO\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csproj.CopyComplete
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
+C:\Users\Giancarlo\Desktop\INO INVISION\BackEnd\InvisionProjectVue\Ino_Invision\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojAssemblyReference.cache
